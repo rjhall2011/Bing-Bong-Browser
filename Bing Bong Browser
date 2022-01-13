@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<header>
+    <title>Bing Bong</title>
+</header>
+<header>
+    <li>January 12, 2022.</li>
+    <li>January 13, 2022.</li>
+
+</header>
+<hr>
+
+
+<body>
+    <div>
+        <section>
+            <h1>Music</h1>
+            <p>I grew up a wild child and music was my first muse.</p>
+            <ul>
+                <li>HipHop</li>
+                <li>Rock</li>
+                <li>Country</li>
+            </ul>
+
+            <a href="https://youtu.be/KJJzzU8aonQ" target="_blank"><video src="https://youtu.be/KJJzzU8aonQ"
+                    controls></video></a>
+            <img src="https://upload.wikimedia.org/wikipedia/en/5/50/Lil_Uzi_Vert_-_That_Way.png">
+        </section>
+        <hr>
+
+        <section>
+            <h2>Art</h2>
+            <p>Always felt as the are was a way for me to get away.</p>
+            <ul>
+                <li>Dance</li>
+                <li>Film</li>
+                <li>Painting</li>
+            </ul>
+
+            <a href="https://ket-uploads-education-ga.s3.amazonaws.com/wp-content/uploads/3959.jpg" target="_blank">
+                <img height="300px"
+                    src="https://ket-uploads-education-ga.s3.amazonaws.com/wp-content/uploads/3959-717x403.jpg"></a>
+        </section>
+        <hr>
+        <section>
+            <h3>Food</h3>
+            <p>Since the first taste hitnmy taste buds I've been hooked ever since</p>
+            <ul>
+                <li>Soul Food</li>
+                <li>Chinese </li>
+                <li>Italian</li>
+            </ul>
+            <a href="https://pbs.twimg.com/media/EkAwBNNU8AAvw55?format=jpg&name=medium" target="_blank">
+                <img height="300px" src="https://pbs.twimg.com/media/EkAwBNNU8AAvw55.jpg"></a>
+        </section>
+        <hr>
+
+        <section>
+            <h4>Enetertainment</h4>
+            <p>Always wanted to make people happy. The biggest stage I accomplished is performing Halftime fo the
+                Atlanta
+                Falcons</p>
+            <ul>
+                <li>Marching Band </li>
+                <li>Comedy</li>
+                <li>Podcast</li>
+            </ul>
+            <a href="https://miro.medium.com/max/934/0*A4FCzX2K4rr3VJt1.jpg" target="_blank">
+                <img height="200px" src="https://miro.medium.com/max/467/0*A4FCzX2K4rr3VJt1.jpg"></a>
+
+        </section>
+        <hr>
+
+        <section>
+            <h5>Gaming</h5>
+            <P>Many of my hand eye cordination was devloped threw gaming growning up.</P>
+            <ul>
+                <li>Super Mario Smash Bro</li>
+                <Li>Call Of Duty</Li>
+                <li>Fortnite</li>
+            </ul>
+            <a href="https://cdn-bnofo.nitrocdn.com/YCOqbulOWPTbigaUOflqfvBCmkFuxfWf/assets/static/optimized/rev-930fc8f/wp-content/uploads/2021/03/Custom-Water-Cooling-EKWB-768x576.jpg"
+                target="_blank">
+                <img height="300px"
+                    src="https://www.wepc.com/wp-content/uploads/2021/03/Custom-Water-Cooling-EKWB.jpg"></a>
+        </section>
+        <hr>
+
+        <section>
+            <h6>Just Chatting</h6>
+            <p>I am a people person and like the bring out the best feature in others.</p>
+            <ul>
+                <li>1-on-1</li>
+                <li>Small Group</li>
+                <li>Organization</li>
+            </ul>
+            <a
+                href="https://assets.ldscdn.org/31/a0/31a07b4d6d8f8ec1dd53c42436311d0825ee07df/picnic_family_food_social_interaction_missionaries.jpeg">
+                <img height="300px"
+                    src="https://assets.ldscdn.org/31/a0/31a07b4d6d8f8ec1dd53c42436311d0825ee07df/picnic_family_food_social_interaction_missionaries.jpeg"></a>
+        </section>
+        <hr>
+
+        <p>5 Things Im Excited To Learn In Convalence</p>
+        <ul>
+            <li>Working with other in the Technology Field</li>
+            <li>Devloping more skills in CSS</li>
+            <li>Perfecting Terminal</li>
+            <li>How to make a Browser</li>
+            <li>Learn how it all works together</li>
+        </ul>
+        <p> Facts bout Myself</p>
+        <ol>
+            <li>I love music</li>
+            <li>I love Technology</li>
+            <li>I love to cook</li>
+            <li>Love Marvel Movies/Series</li>
+            <li>I love to travel</li>
+
+        </ol>
+        <h1>Black Panther</h1>
+        <hr>
+        <a href="https://youtu.be/xjDjIWPwcPU" target="_blank">
+            <img height="300px"
+                src="https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810">
+
+        </a>
+        <iframe width="300" height="300" src="https://www.youtube.com/embed/xjDjIWPwcPU" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+        <hr>
+
+        <ul>
+            <li>Chadwick Boseman</li>
+            <li>Micheal B. Jordan</li>
+            <li>Angela Bassett</li>
+            <li>Danai Gurira</li>
+            <li>Letitia Wright</li>
+
+        </ul>
+        <ol>
+            <li>Release Date: 2/16/2018</li>
+            <li>Film Budget: 200 Million USD</li>
+            <li>Box Office Sales: 1.348 Billion </li>
+        </ol>
+
+    </div>
+</body>
